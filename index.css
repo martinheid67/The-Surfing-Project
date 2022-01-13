@@ -19,3 +19,14 @@
 .bouton{
     margin-right: 0.3em
 }
+
+.milieu{
+    display: flex;
+    flex-wrap: nowrap;
+    
+}
+
+.citation{
+    font-size: smaller;
+    margin-bottom: 0;
+}
