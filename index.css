@@ -1,8 +1,21 @@
 .navbar{
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    caret-color: transparent;
 }
 
 #Accueil{
     color: white;
+}
+
+#jumbotron{
+    background:linear-gradient(rgba(48, 48, 48, 0.5), rgba(48, 48, 48, 0.5)), url(https://images.pexels.com/photos/1533729/pexels-photo-1533729.jpeg?cs=srgb&dl=pexels-matt-hardy-1533729.jpg&fm=jpg);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bouton{
+    margin-right: 0.3em
 }
